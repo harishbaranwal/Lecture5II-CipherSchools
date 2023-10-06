@@ -16,6 +16,8 @@ int main(){
     //     cout << arr[i];
     // }
 
+
+
     // program for giving 10 input and getting output in reverse order. 
 
     int arr[9];
